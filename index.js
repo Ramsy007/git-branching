@@ -12,3 +12,4 @@ console.log('Feature branch for security patches');
 console.log('lauda lehsun');  
 console.log('Feature branch for security patches');    
 console.log('lauda lehsun part 2'); 
+console.log('lauda lehsun part 4');
