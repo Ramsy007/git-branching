@@ -1,2 +1,2 @@
 console.log('Hello from main branch');
-console.log('Logging feature branch');
+console.log('Auth feature branch');
